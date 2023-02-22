@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Echo&#39;s Blog</title>
-        <link>https://jluecho.github.io/</link>
-        <description>Echo&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 22 Feb 2023 20:47:25 &#43;0800</lastBuildDate>
-            <atom:link href="https://jluecho.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>所有文章 - Echo&#39;s Blog</title>
+        <link>https://jluecho.github.io/posts/</link>
+        <description>所有文章 | Echo&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 22 Feb 2023 20:47:25 &#43;0800</lastBuildDate><atom:link href="https://jluecho.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>1</title>
     <link>https://jluecho.github.io/posts/1/</link>
     <pubDate>Wed, 22 Feb 2023 20:47:25 &#43;0800</pubDate><author>
