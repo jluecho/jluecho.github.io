@@ -3,9 +3,15 @@
         <title>Echo&#39;s Blog</title>
         <link>https://jluecho.github.io/</link>
         <description>Echo&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 23 Feb 2023 19:42:06 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 23 Feb 2023 20:44:31 &#43;0800</lastBuildDate>
             <atom:link href="https://jluecho.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Second_post</title>
+    <link>https://jluecho.github.io/posts/second_post/</link>
+    <pubDate>Thu, 23 Feb 2023 20:44:31 &#43;0800</pubDate><author>
+                        <name>Echo</name><uri>https://jluecho.github.io</uri><email>alice@example.com</email></author><guid>https://jluecho.github.io/posts/second_post/</guid>
+    <description><![CDATA[嗯？推送真不太行的样子！]]></description>
+</item><item>
     <title>First_post</title>
     <link>https://jluecho.github.io/posts/first_post/</link>
     <pubDate>Thu, 23 Feb 2023 19:42:06 &#43;0800</pubDate><author>
